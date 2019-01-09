@@ -1,0 +1,2 @@
+# NewsCollect
+Mongo
