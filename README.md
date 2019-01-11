@@ -1,2 +1,1 @@
-# NewsCollect
-Mongo
+# Mongoose-Scraper
