@@ -35,7 +35,7 @@ app.engine(
 app.set("view engine", "handlebars");
 
 // If deployed, use the deployed database. Otherwise use the local mongoHeadlines database
-var MONGODB_URI = "mongodb://rickyxnguyen:Apples1@ds027165.mlab.com:27165/heroku_c020jhjn" || "mongodb://localhost/mongoHeadlines";
+var MONGODB_URI = "mongodb://rickyxnguyen:Weary234@ds027165.mlab.com:27165/heroku_c020jhjn";
 
 // Set mongoose to leverage built in JavaScript ES6 Promises
 // Connect to the Mongo DB
